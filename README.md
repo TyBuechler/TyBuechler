@@ -1,5 +1,3 @@
-<img align="right" width="130" src="https://avatars.githubusercontent.com/u/98897868?v=4" />
-
 # Ty Buechler
 
 **Software Engineer**
