@@ -42,7 +42,7 @@ Much of my strongest work lives in private and proprietary codebases I can't ope
 
 ## 🏆 Public Projects
 
-- **[Password Manager](https://github.com/TyBuechler)** — Angular · Firebase · TypeScript
+- **[Password Manager](https://github.com/TyBuechler/ccdt-password-manager)** — Angular · Firebase · TypeScript
   A secure credential-management web app with authentication, real-time data storage, and a responsive Angular frontend on Firebase. Built as a team project.
 
 - **[PawfectMatch](https://github.com/TyBuechler/PawfectMatch)** — HTML · CSS · JavaScript
